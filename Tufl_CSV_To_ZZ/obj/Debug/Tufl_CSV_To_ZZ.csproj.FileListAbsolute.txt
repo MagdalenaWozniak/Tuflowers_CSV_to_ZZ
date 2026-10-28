@@ -1,0 +1,47 @@
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.CoreCompileInputs.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.dll.config
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.pdb
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\CdnHydra.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Buffers.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Memory.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.ValueTuple.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Buffers.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Memory.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\System.ValueTuple.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.CopyComplete
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.pdb
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\bin\Debug\cdn_api20210.net.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.GenerateResource.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.WyborTrybuImportu.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.ShowLog.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.TestKlas.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.AssemblyReference.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.Pasek.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.dll.config
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\Tufl_CSV_To_ZZ.pdb
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\CdnHydra.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Buffers.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Memory.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.ValueTuple.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Buffers.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Memory.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\System.ValueTuple.xml
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.AssemblyReference.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.Decyzja.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.Pasek.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.TestKlas.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.ShowLog.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.WyborTrybuImportu.resources
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.GenerateResource.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.CoreCompileInputs.cache
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.csproj.CopyComplete
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.dll
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\obj\Debug\Tufl_CSV_To_ZZ.pdb
+C:\OneSupport\Tuflowers\Tufl_CSV_To_ZZ — kopia_modyfikacje\Tufl_CSV_To_ZZ\bin\Debug\cdn_api20231.net.dll
